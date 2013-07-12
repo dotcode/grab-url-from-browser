@@ -31,5 +31,6 @@ set _browser to GetDefaultWebBrowser()
 tell application _browser to activate
 tell application "System Events"
 	keystroke "l" using {command down}
+	delay 1
 	keystroke "c" using {command down}
 end tell

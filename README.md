@@ -5,7 +5,7 @@ A little AppleScript to grab the URL from the active tab of your default browser
 
 Usage
 -----
-	$ osascript ./grab-url.scpt; pbpaste
+	$ osascript ./grab-url.applescript; pbpaste
 
 How it works
 ------------
