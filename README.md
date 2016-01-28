@@ -9,4 +9,4 @@ Usage
 
 How it works
 ------------
-Crudely - there's nothing at all nice about this yet. It simply uses GUI scripting to select and copy the URL to the clipboard.
+Crudely - there's nothing at all nice about this yet. It simply uses GUI scripting to select and copy the URL to the clipboard …
